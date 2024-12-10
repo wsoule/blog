@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/test1/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>email sub addressing</title>
+      <link>http://localhost:1313/blog/posts/email-sub-addressing/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/email-sub-addressing/</guid>
+      <description>&lt;p&gt;add &lt;code&gt;+[some descriptor]&lt;/code&gt; before the &lt;code&gt;@&lt;/code&gt; on your email to make a sub-address.&lt;/p&gt;&#xA;&lt;p&gt;this allows you to make a displosable email address using your current email address. I do this with all of my emails now.&lt;/p&gt;&#xA;&lt;p&gt;for example, use this for your email with reddit &lt;code&gt;amazonceo1984+reddit@gmail.com&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;now, if you get a spam email sent to &lt;code&gt;amazonceo1984+reddit@gmail.com&lt;/code&gt;, you know that reddit gave that spammer your email.&lt;/p&gt;&#xA;&lt;p&gt;wikipedia article:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Sub-addressing&#xA;Some mail services support a tag included in the local-part, such that the address is an alias to a prefix of the local-part. Typically the characters following a plus and less often the characters following a minus, so fred+bah@domain and fred+foo@domain might end up in the same inbox as fred+@domain or even as fred@domain. For example, the address &lt;a href=&#34;mailto:joeuser+tag@example.com&#34;&gt;joeuser+tag@example.com&lt;/a&gt; denotes the same delivery address as &lt;a href=&#34;mailto:joeuser@example.com&#34;&gt;joeuser@example.com&lt;/a&gt;. RFC 5233[14] refers to this convention as subaddressing, but it is also known as plus addressing, tagged addressing or mail extensions. This can be useful for tagging emails for sorting, and for spam control.[15]&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>SHI</title>
       <link>http://localhost:1313/blog/posts/new-2/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
