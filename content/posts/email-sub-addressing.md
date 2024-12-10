@@ -14,7 +14,7 @@ for example, use this for your email with reddit `amazonceo1984+reddit@gmail.com
 now, if you get a spam email sent to `amazonceo1984+reddit@gmail.com`, you know that reddit gave that spammer your email.
 
 
-wikipedia article:
+[wikipedia article](https://en.wikipedia.org/wiki/Email_address#Sub-addressing):
 
 > # Sub-addressing
 >
