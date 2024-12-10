@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:62288/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Wyat Blog</title>
+    <link>http://localhost:1313/blog/posts/</link>
+    <description>Recent content in Posts on Wyat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62288/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>email sub addressing</title>
+      <link>http://localhost:1313/blog/posts/email-sub-addressing/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/email-sub-addressing/</guid>
+      <description>&lt;p&gt;add &lt;code&gt;+[some descriptor]&lt;/code&gt; before the &lt;code&gt;@&lt;/code&gt; on your email to make a sub-address.&lt;/p&gt;&#xA;&lt;p&gt;this allows you to make a displosable email address using your current email address. I do this with all of my emails now.&lt;/p&gt;&#xA;&lt;p&gt;for example, use this for your email with reddit &lt;code&gt;amazonceo1984+reddit@gmail.com&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;now, if you get a spam email sent to &lt;code&gt;amazonceo1984+reddit@gmail.com&lt;/code&gt;, you know that reddit gave that spammer your email.&lt;/p&gt;&#xA;&lt;p&gt;wikipedia article:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Sub-addressing&#xA;Some mail services support a tag included in the local-part, such that the address is an alias to a prefix of the local-part. Typically the characters following a plus and less often the characters following a minus, so fred+bah@domain and fred+foo@domain might end up in the same inbox as fred+@domain or even as fred@domain. For example, the address joeuser+tag@example.com denotes the same delivery address as joeuser@example.com. RFC 5233[14] refers to this convention as subaddressing, but it is also known as plus addressing, tagged addressing or mail extensions. This can be useful for tagging emails for sorting, and for spam control.[15]&#xA;&#xA;Addresses of this form, using various separators between the base name and the tag, are supported by several email services, including Andrew Project (plus),[16] Runbox (plus),[17] Gmail (plus),[15] Rackspace (plus), Yahoo! Mail Plus (hyphen),[18] Apple&amp;#39;s iCloud (plus), Outlook.com (plus),[19] Mailfence (plus),[20] Proton Mail (plus),[21] Fastmail (plus and Subdomain Addressing),[22] postale.io (plus),[23] Pobox (plus),[24] MeMail (plus),[25] and MTAs like MMDF (equals), Qmail and Courier Mail Server (hyphen).[26][27] Postfix and Exim allow configuring an arbitrary separator from the legal character set.[28][29]&#xA;&#xA;The text of the tag may be used to apply filtering,[26] or to create single-use, or disposable email addresses.[30]&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>SHI</title>
+      <link>http://localhost:1313/blog/posts/new-2/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/new-2/</guid>
+      <description>&lt;p&gt;What needs to be done still:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create a deno script that moves the files from obsidian to blogs&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; display tags on post&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>FUC</title>
-      <link>http://localhost:62288/posts/new-post/</link>
+      <link>http://localhost:1313/blog/posts/new-post/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62288/posts/new-post/</guid>
+      <guid>http://localhost:1313/blog/posts/new-post/</guid>
       <description>&lt;p&gt;HEllo, this is a new post&lt;/p&gt;</description>
     </item>
   </channel>
