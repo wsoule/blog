@@ -5,6 +5,8 @@ tags:
   - test1
 ---
 
+got this from the [anything else?](https://anythingelse.gg/) podcast, idk what episode.
+
 add `+[some descriptor]` before the `@` on your email to make a sub-address.
 
 this allows you to make a displosable email address using your current email address. I do this with all of my emails now.
