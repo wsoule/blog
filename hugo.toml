@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://wsoule.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Wyat Blog'
 theme = 'no-style'
 # theme = 'ananke'
