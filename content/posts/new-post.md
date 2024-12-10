@@ -1,7 +1,7 @@
 ---
 title: 'FUC'
 date: 2024-12-02
-draft: true
+# draft: true
 tags: 
   - test1
 ---
